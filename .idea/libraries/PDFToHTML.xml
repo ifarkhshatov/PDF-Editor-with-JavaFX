@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="PDFToHTML">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../PDFToHTML.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../PDFToHTML.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -20,7 +20,7 @@ Find example PDF in *src/sample/sample.PDF*
   
 # Set-up
 Firstly, I recommend you to cover [this](https://github.com/ifarkhshatov/JavaFXTutorial) lesson to be able to create an empty JavaFx app.
-Besides, JavaFx we also need two libraries.
+Besides, JavaFx we also need two libraries. (also please adjust VM option to add aditionally javafx.web at the end.)
 1. **PDFtoHTML** - to convert PDF file to HTML and be able to edit the document. (see [this](http://cssbox.sourceforge.net/pdf2dom/download.php))
 2. **Jsoup** - to parse HTML document and add additional data to elements of this HTML. (see [this](https://jsoup.org/download))
 
